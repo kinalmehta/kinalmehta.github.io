@@ -16,12 +16,13 @@
 title: Kinal
 email: "kgm1995@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I am Kinal Mehta. I am a research student at IIITH interested in "Learning in autonomous agents"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: kinalmehta
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air # air, dark, neon, default
 search: true
 
 # Build settings
@@ -59,7 +60,7 @@ plugins:
 
 author:
   name   : "Kinal Mehta"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/kinal_profile.jpg"
   bio    : "Learning Algorithms Researcher"
   links:
     - label: "Website"
