@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-
-I am a MS-CS Research student at IIIT Hyderabad. Currently I am studying the foundation coursework. I aim to work on reinforcement learning in autonomous agents, continual learning, intrinsic motivation learning and .
+I am an MS-CS Research student at IIIT Hyderabad. Currently I am studying the foundation coursework. I aim to work on learning in autonomous agents, continual learning, intrinsic motivation learning.
 
 Not much active on blogs yet, but I plan to improve on that front and keep posting about interesting topics related to learning algorithms and my research.
 
