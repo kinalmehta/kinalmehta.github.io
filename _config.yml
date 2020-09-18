@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 url: https://kinalmehta.github.io
-baseurl: /mm_theme/about
+baseurl: /mm_theme
 
 title: Kinal
 email: "kgm1995@gmail.com"
