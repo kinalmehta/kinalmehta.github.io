@@ -1,8 +1,11 @@
 ---
 title: Class Notes
-layout: collection
+layout: archive
 permalink: /classnotes/
 collection: classnotes
-entries_layout: grid
-classes: wide
+author_profile: false
+sidebar:
+    nav: classnotes
+# entries_layout: grid
+# classes: wide
 ---
