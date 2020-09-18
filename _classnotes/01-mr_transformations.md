@@ -1,6 +1,6 @@
 ---
 title: "Transformations"
-permalink: /ClassNotes/transformations
+permalink: /classnotes/transformations
 excerpt: "Introduction to 3D transformations"
 last_modified_at: 2020-09-18
 toc: true

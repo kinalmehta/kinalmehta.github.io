@@ -37,7 +37,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _posts
-  - ClassNotes
+  - _classnotes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -99,6 +99,12 @@ footer:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/kinal_mehta"
 
+# Collections
+collections:
+  classnotes:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -113,7 +119,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "/about"
+      path: ""
       type: pages
     values:
       layout: single

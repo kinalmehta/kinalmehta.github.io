@@ -8,4 +8,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Class Notes"
-    url: /ClassNotes/transformations/
+    url: /classnotes/transformations/
+
+classnotes:
+  - title: Mobile Robotics
+    children:
+      - title: "Transformations"
+      - url: /classnotes/transformations/
+  - title: Topics in Applied Optimization
+  - title: Topics in Machine Learning
+
