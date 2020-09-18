@@ -123,6 +123,8 @@ collections:
   classnotes:
     output: true
     permalink: /:collection/:path/
+    author_profile: false
+
 
 defaults:
   # _posts
@@ -149,10 +151,10 @@ defaults:
       type: classnotes
     values:
       layout: single
-      read_time: false
       author_profile: false
-      share: false
-      comments: false
+      read_time: true
+      share: true
+      comments: true
       related: true
       sidebar:
         nav: classnotes
