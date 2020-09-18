@@ -1,6 +1,7 @@
 ---
 title: "Transformations"
 excerpt: "Introduction to 3D transformations"
+permalink: /classnotes/mobile_robotics/transformations
 last_modified_at: 2020-09-18
 toc: true
 toc_sticky: True

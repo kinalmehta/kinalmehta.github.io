@@ -14,6 +14,7 @@ classnotes:
   - title: Mobile Robotics
     children:
       - title: "Transformations"
+        url: /classnotes/mobile_robotics/transformations
   - title: Topics in Applied Optimization
   - title: Topics in Machine Learning
 
