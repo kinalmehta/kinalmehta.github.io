@@ -108,7 +108,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -119,11 +119,24 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+  # _classnotes
+  - scope:
+      path: ""
+      type: classnotes
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar:
+        nav: classnotes
+
 
 category_archive:
   type: liquid
