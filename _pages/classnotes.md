@@ -1,6 +1,6 @@
 ---
 title: Class Notes
-layout: archive
+layout: collection
 permalink: /classnotes/
 collection: classnotes
 author_profile: false
