@@ -4,6 +4,7 @@ permalink: /classnotes/transformations
 excerpt: "Introduction to 3D transformations"
 last_modified_at: 2020-09-18
 toc: true
+mathjax: true
 ---
 
 # The Transformation Matrix
