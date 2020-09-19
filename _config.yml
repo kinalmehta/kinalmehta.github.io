@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: https://kinalmehta.github.io
-baseurl: /mm_theme
+# url: https://kinalmehta.github.io
+# baseurl: /
 
 title: Kinal
 email: "kgm1995@gmail.com"
@@ -153,8 +153,8 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      share: true
       comments: true
+      share: true
       related: true
       sidebar:
         nav: classnotes
