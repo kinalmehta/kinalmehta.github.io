@@ -1,6 +1,8 @@
 ---
-permalink: /about/
+permalink: /
+redirect_from: /about/
 title: "About"
+excerpt: "About me"
 ---
 
 I am an MS-CS Research student at IIIT Hyderabad. Currently I am studying the foundation coursework. I aim to work on learning in autonomous agents, continual learning, intrinsic motivation learning.
