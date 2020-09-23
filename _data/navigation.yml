@@ -15,8 +15,8 @@ classnotes:
     children:
       - title: "Transformations"
         url: /classnotes/mobile_robotics/transformations
-      # - title: "Non Linear Optimization"
-      #   url: /classnotes/mobile_robotics/non_linear_optmization
+      - title: "Non Linear Optimization"
+        url: /classnotes/mobile_robotics/non_linear_optmization
   - title: Topics in Applied Optimization
       - title: "Math Basics"
         url: /classnotes/applied_optimization/math_basics
