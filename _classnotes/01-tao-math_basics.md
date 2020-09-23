@@ -11,7 +11,7 @@ last_modified_at: 2020-09-20
 
 # Calculus
 - Taylor Series
-  - Taylor series can approximate any function \(f(x)\) around some \(x\) 
+  - Taylor series can approximate any function \\(f(x)\\) around some \\(x\\) <br>
     $$
       f(x+h) = \sum_{i=0}^{\infin} \frac{h^i}{i!}f^{i}(x) \qquad \forall x \in  \textbf{dom } f
     $$
@@ -21,17 +21,17 @@ last_modified_at: 2020-09-20
     $$
 - L'Hopital rule
   - if 
-    \(
+    \\(
         \lim_{x \to a} \dfrac{f(x)}{g(x)}
-    \)
-    is of the form \(\dfrac{0}{0}\) or \(\dfrac{\infin}{\infty}\), then,
+    \\)
+    is of the form \\(\dfrac{0}{0}\\) or \\(\dfrac{\infin}{\infty}\\), then,
     $$
         \lim_{x \to a} \dfrac{f(x)}{g(x)} = \lim_{x \to a} \dfrac{f'(x)}{g'(x)} \quad \forall a \in \R
     $$
 
 - Basic
   $$
-  \nabla f(x) \rightarrow grad \quad of f(x)
+  \nabla f(x) \rightarrow grad of f(x)
   $$
 
 # References
