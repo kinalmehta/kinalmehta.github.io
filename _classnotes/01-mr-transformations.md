@@ -8,7 +8,7 @@ last_modified_at: 2020-09-18
 # The Transformation Matrix
 
 ## Basics of rotation
-Let us consider a simple 2D case. In 2D, anti-clockwise rotation by angle $\theta$ can be performed on a vector $P$ in frame $A$ represented as $^{A}P$ to convert to frame $B$ represented as $^{B}P$ using rotation matrix $R^{A}_{B}$.
+Let us consider a simple 2D case. In 2D, anti-clockwise rotation by angle \\(\theta\\) can be performed on a vector \\(P\\) in frame \\(A\\) represented as \\(^{A}P\\) to convert to frame \\(B\\) represented as \\(^{B}P\\) using rotation matrix \\(R^{A}_{B}\\).
 
 $$
 ^A P = {R_{B}^{A}} \:{^BP}\\
