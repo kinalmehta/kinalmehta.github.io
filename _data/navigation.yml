@@ -18,9 +18,13 @@ classnotes:
       - title: "Non Linear Optimization"
         url: /classnotes/mobile_robotics/non_linear_optmization
   - title: Topics in Applied Optimization
+    children:
       - title: "Math Basics"
         url: /classnotes/applied_optimization/math_basics
       - title: "Optimization"
         url: /classnotes/applied_optimization/optimization
   - title: Topics in Machine Learning
+    children:
+      - title: "Demo"
+        url: /classnotes/machine_learning/intro
 
