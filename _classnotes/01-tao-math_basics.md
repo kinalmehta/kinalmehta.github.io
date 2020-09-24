@@ -13,13 +13,11 @@ last_modified_at: 2020-09-20
 
 <details><summary>Differentiation rules</summary>
 
-<p>
-
 - Addition/subtraction<br>
   $
     f(x) = g(x) \pm h(x) \\
     f'(x) = \dfrac{df}{dx} = g'(x) \pm h'(x)
-  $
+  $<br>
 
 - Multiplication<br>
   $
@@ -32,12 +30,10 @@ last_modified_at: 2020-09-20
     f(x) = \dfrac{g(x)}{h(x)} \\
     f'(x) = \dfrac{df}{dx} = \dfrac{h(x)g'(x)-g(x)h'(x)}{h(x)^2}
   $
-</p></details>
+</details>
 
 
 <details><summary>Taylor Series</summary>
-
-<p>
 
 - Taylor series can approximate any function $f(x)$ around some $x$
 
@@ -50,12 +46,10 @@ last_modified_at: 2020-09-20
   $$
     f(x+h) = f(x) + hf'(x) + \frac{h^2}{2!}f''(x) + \dots
   $$
-</p></details>
+</details>
 
 
 <details><summary>L'Hopital rule</summary>
-
-<p>
 
 - if
   $
@@ -66,7 +60,7 @@ last_modified_at: 2020-09-20
   $$
       \lim_{x \to a} \dfrac{f(x)}{g(x)} = \lim_{x \to a} \dfrac{f'(x)}{g'(x)} \quad \forall a \in \R
   $$
-</p></details>
+</details>
 
 
 
