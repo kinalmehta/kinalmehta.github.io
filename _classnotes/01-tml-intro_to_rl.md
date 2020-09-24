@@ -9,7 +9,7 @@ last_modified_at: 2020-09-24
 
 Reinforcement learning is a set of algorithms which learn to act by **interacting** with the environment. The below diagram shows the overview of how the system works.
 
-![RL World](images/01_tml/01.png)
+![RL World](/_classnotes/images/01_tml/01.png)
 
 - Notations in RL:
   - $S_t$: State
