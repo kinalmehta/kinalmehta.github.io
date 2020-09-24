@@ -14,21 +14,30 @@ last_modified_at: 2020-09-20
 - Differentiation rules
 
   - Addition/subtraction
+  
     $$
-      f(x) = g(x) \pm h(x) \\
-      f'(x) = \dfrac{df}{dx} = g'(x) \pm h'(x)
+    \begin{aligned}
+      f(x) &= g(x) \pm h(x) \\
+      f'(x) = \dfrac{df}{dx} &= g'(x) \pm h'(x)
+    \end{aligned}
     $$
 
   - Multiplication
+  
     $$
-      f(x) = g(x) * h(x) \\
-      f'(x) = \dfrac{df}{dx} = g(x)*h'(x) + h(x)*g'(x)
+    \begin{aligned}
+      f(x) &= g(x) * h(x) \\
+      f'(x) = \dfrac{df}{dx} &= g(x)*h'(x) + h(x)*g'(x)
+    \end{aligned}
     $$
 
   - Division
+  
     $$
-      f(x) = \dfrac{g(x)}{h(x)} \\
-      f'(x) = \dfrac{df}{dx} = \dfrac{h(x)g'(x)-g(x)h'(x)}{h(x)^2}
+    \begin{aligned}
+      f(x) &= \dfrac{g(x)}{h(x)} \\
+      f'(x) = \dfrac{df}{dx} &= \dfrac{h(x)g'(x)-g(x)h'(x)}{h(x)^2}
+    \end{aligned}
     $$
 
 
@@ -37,13 +46,10 @@ last_modified_at: 2020-09-20
   - Taylor series can approximate any function $f(x)$ around some $x$
 
     $$
-      f(x+h) = \sum_{i=0}^{\infin} \frac{h^i}{i!}f^{i}(x) \qquad \forall x \in  \textbf{dom } f
-    $$
-
-  - it can also be written as
-
-    $$
-      f(x+h) = f(x) + hf'(x) + \frac{h^2}{2!}f''(x) + \dots
+    \begin{aligned}
+      f(x+h) &= \sum_{i=0}^{\infin} \frac{h^i}{i!}f^{i}(x) \qquad \forall x \in  \textbf{dom } f \\
+      f(x+h) &= f(x) + hf'(x) + \frac{h^2}{2!}f''(x) + \dots
+    \end{aligned}
     $$
 
 

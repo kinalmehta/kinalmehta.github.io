@@ -25,6 +25,6 @@ classnotes:
         url: /classnotes/applied_optimization/optimization
   - title: Topics in Machine Learning
     children:
-      - title: "Demo"
-        url: /classnotes/machine_learning/intro
+      - title: "Introduction to RL"
+        url: /classnotes/machine_learning/intro_to_rl
 
