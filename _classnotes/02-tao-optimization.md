@@ -44,6 +44,6 @@ $$
 - Max functions
 
   $$
-    f(x) = \text{ max } \set{x_1, x_2, ..., x_n} \text{ is convex on } \mathbb{R}^n
+    f(x) = \text{ max } \{x_1, x_2, ..., x_n\} \text{ is convex on } \mathbb{R}^n
   $$
 

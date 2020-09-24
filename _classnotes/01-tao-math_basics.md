@@ -14,6 +14,7 @@ last_modified_at: 2020-09-20
 <details><summary>Differentiation rules</summary>
 
 <p>
+
 - Addition/subtraction<br>
   $
     f(x) = g(x) \pm h(x) \\
@@ -37,6 +38,7 @@ last_modified_at: 2020-09-20
 <details><summary>Taylor Series</summary>
 
 <p>
+
 - Taylor series can approximate any function $f(x)$ around some $x$
 
   $$
@@ -54,6 +56,7 @@ last_modified_at: 2020-09-20
 <details><summary>L'Hopital rule</summary>
 
 <p>
+
 - if
   $
     \lim_{x \to a} \dfrac{f(x)}{g(x)}
