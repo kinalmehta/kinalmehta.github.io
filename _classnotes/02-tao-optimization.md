@@ -9,13 +9,15 @@ last_modified_at: 2020-09-20
 
 ## Problem Defination
 A problem of the form
+
 $$
 \min f(x) \\
 \text{subject to } x \in C
 $$
-- \\(f(x)\\) is the objective function
+
+- $f(x)$ is the objective function
 - C is called the constrained set
-- find \\(x\\) s.t. \\(f(x)\\) is minimized
+- find $x$ s.t. $f(x)$ is minimized
 
 ## Problem Formulation
 
@@ -33,10 +35,15 @@ $$
 # Convexity
 
 - Indication function relates convex functions and convex sets
-- Epi-graph of \\(f\\) is a set of all points above the function.
+- Epi-graph of $f$ is a set of all points above the function.
   - if a fucntion is convex, then its epi-graph is convex and vice-versa
   
 ## Convex sets
 
+## Convex functions
+- Max functions
 
+  $$
+    f(x) = \text{ max } \set{x_1, x_2, ..., x_n} \text{ is convex on } \mathbb{R}^n
+  $$
 
