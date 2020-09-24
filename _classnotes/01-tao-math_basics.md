@@ -13,23 +13,23 @@ last_modified_at: 2020-09-20
 
 - Differentiation rules
 
-  - Addition/subtraction<br>
-    $
+  - Addition/subtraction
+    $$
       f(x) = g(x) \pm h(x) \\
       f'(x) = \dfrac{df}{dx} = g'(x) \pm h'(x)
-    $
+    $$
 
-  - Multiplication<br>
-    $
+  - Multiplication
+    $$
       f(x) = g(x) * h(x) \\
       f'(x) = \dfrac{df}{dx} = g(x)*h'(x) + h(x)*g'(x)
-    $
+    $$
 
-  - Division<br>
-    $
+  - Division
+    $$
       f(x) = \dfrac{g(x)}{h(x)} \\
       f'(x) = \dfrac{df}{dx} = \dfrac{h(x)g'(x)-g(x)h'(x)}{h(x)^2}
-    $
+    $$
 
 
 - Taylor Series
